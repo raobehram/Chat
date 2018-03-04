@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "952539669531",
+    "firebase_url": "https://quitit-d53d8.firebaseio.com",
+    "project_id": "quitit-d53d8",
+    "storage_bucket": "quitit-d53d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952539669531:android:cf1ba96186128e2d",
+        "android_client_info": {
+          "package_name": "com.raobehram.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952539669531-rbj1dptdmivivoo1s9gnk212sbulcimq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raobehram.chat",
+            "certificate_hash": "c6ab76e3217e7b51c062ef33d4cc704471304629"
+          }
+        },
+        {
+          "client_id": "952539669531-hib0slb1muma0qsjj1t9fo2un99dh7tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMsS5B2zWfOq7FX6k7ZlFUy0tpzoLc5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952539669531-hib0slb1muma0qsjj1t9fo2un99dh7tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
